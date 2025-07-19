@@ -9,4 +9,7 @@ Currently, two official plugins are available:
 
 
 # this repo belongs to akshay-mani-tripathi
+
+you can view it at :- https://react-minor-projects-m1ad.vercel.app/
+
 # Thank you for your view
