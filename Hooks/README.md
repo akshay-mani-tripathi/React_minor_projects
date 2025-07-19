@@ -9,6 +9,6 @@ Currently, two official plugins are available:
 
 # this repo belongs to akshay-mani-tripathi
 
-you can view it at :- https://react-minor-projects-six.vercel.app
+you can view it at :- https://react-minor-projects-h7yp.vercel.app/
 
 # Thank you for your view
