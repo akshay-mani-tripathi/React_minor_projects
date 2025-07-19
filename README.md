@@ -17,7 +17,7 @@ Follow these steps to run the projects locally:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Mayankbhardwaj255/react-projects.git
+   git clone https://github.com/akshay-mani-tripathi/React_minor_projects.git
    ```
 2. **Navigate to a project folder:**
    ```bash
